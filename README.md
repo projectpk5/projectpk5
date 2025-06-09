@@ -25,8 +25,8 @@ Welcome to my public profile! I'm a front-end developer passionate about buildin
 
 - 💻 **Languages**: HTML5, CSS3, JavaScript (ES6+)
 - ⚛️ **Frameworks & Libraries**: React, React Router, Redux (if applicable)
-- 🎨 **Styling**: CSS Modules, SASS/SCSS, Tailwind CSS (if used)
-- 🛠️ **Tools & Platforms**: Git, GitHub, VS Code, npm, Webpack, Vite
+- 🎨 **Styling**: CSS Modules, Bootstrap
+- 🛠️ **Tools & Platforms**: Git, GitHub, VS Code
 
 ---
 
