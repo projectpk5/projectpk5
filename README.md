@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Pavan Kumar
 
 Welcome to my public profile! I'm a front-end developer passionate about building responsive, user-friendly web applications.
 
