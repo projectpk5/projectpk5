@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Pavan Kumar
 
-Welcome to my public profile! I'm a front-end developer passionate about building responsive, user-friendly web applications.
+Welcome to my public profile! I'm a full-stack engineer passionate about building responsive, user-friendly web applications.
 
 ---
 
 ## 🧰 Skills & Technologies
 
 - 💻 **Languages**: HTML5, CSS3, JavaScript (ES6+)
-- ⚛️ **Frameworks & Libraries**: React, React Router, Redux (if applicable)
+- ⚛️ **Frameworks & Libraries**: React, React Router, Redux
 - 🎨 **Styling**: CSS Modules, Bootstrap
 - 🛠️ **Tools & Platforms**: Git, GitHub, VS Code
 
@@ -45,8 +45,8 @@ Feel free to reach out or connect:
 
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
-- 📧 Email: [you@example.com](mailto:you@example.com)
+- 🐙 [GitHub](https://github.com/projectpk5)
+- 📧 Email: [npkin567@yahoo.com](mailto:npkin567@yahoo.com)
 
 ---
 
