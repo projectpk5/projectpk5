@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **projectpk5/projectpk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # 👋 Hello, I'm Pavan Kumar
 
 Welcome to my public profile! I'm a full-stack engineer passionate about building responsive, user-friendly web applications.
