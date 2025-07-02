@@ -34,8 +34,11 @@ Welcome to my public profile! I'm a full-stack engineer passionate about buildin
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Medicio](#) | Short description of what it does. | React, CSS, JavaScript |
-| [Freshcard](#) | Another project detail. | HTML, SASS, JavaScript |
+| [Medicio](#) | Hospital/Medical center web app. | HTML, CSS & Vanilla JS |
+| [Freshcart](#) | Online shopping site with enhanced UI | HTML, Bootstrap, JavaScript |
+| [Alphabet Consulting](#) | Business website with portfolio, blog and contact form functionalities. | Vanilla JS, PHP, Bootstrap |
+| [FarmFresh Groceries](#) | Groceries app with cart and wishlist functionality. | Vanilla JS, Bootstrap |
+| [Training Landing Page](#) | minimal, memory efficient landing page. | HTML & CSS |
 
 ---
 
